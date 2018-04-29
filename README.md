@@ -7,3 +7,6 @@ Now this program is able to Scraper PandaTv's "All" page.
 
 [TODO]
 - Store Host's info
+
+## DouyuTv
+Not supported for now
