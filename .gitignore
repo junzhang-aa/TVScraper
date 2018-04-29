@@ -1,0 +1,6 @@
+*.bak
+*.pyc
+venv/
+.idea/
+__pycache__/
+settings.py
